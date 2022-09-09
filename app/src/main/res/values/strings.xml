@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TBC_Classwork_7</string>
+    <string name="cources">Cources</string>
+    <string name="time">20 min</string>
+    <string name="start">Start</string>
+    <string name="booking_time">Booked for</string>
+</resources>
